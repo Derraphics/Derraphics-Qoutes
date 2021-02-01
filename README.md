@@ -1,4 +1,4 @@
-# Nirvana
+# Derraphics-Quotes
 
 #### An application submitted for week 1 at MC38, 29th Jan, 2021
 
