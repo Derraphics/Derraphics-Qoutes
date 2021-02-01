@@ -6,7 +6,8 @@
 
 ## Description
 
-A web application for submitting and rating quotes
+A web application that deals with posting of qoutes and also rating them
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.1.
 
@@ -14,7 +15,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 1. run npm install -g @angular/cli@next npm update.
 1. clone this repo
-   `git clone https://github.com/BwanaQ/nirvana.git`
+   `https://github.com/Derraphics/Derraphics-Qoutes/tree/master`
 1. Run `ng serve` for a dev server.
 1. Navigate to `http://localhost:4200/`
 
@@ -43,7 +44,8 @@ No known bugs
 
 ## Support and contact details
 
-- thunjawax@gmail.com
+- derrickmuriithi988@gmail.com
+
 
 ### License
 
