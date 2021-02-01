@@ -1,0 +1,42 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+@import url("https://fonts.googleapis.com/css2?family=Sacramento&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quattrocento+Sans&display=swap");
+* {
+  font-family: "Quattrocento Sans", sans-serif;
+}
+.container {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.nirvana-logo {
+  width: 50%;
+  height: auto;
+}
+.col-md-4 {
+  padding: 0px;
+}
+.quote-author {
+  font-family: "Sacramento", cursive;
+  font-size: 30px;
+}
+.quote-font {
+  font-family: "Quattrocento Sans", sans-serif;
+}
+.up-vote {
+  margin-bottom: 7px;
+}
+.down-vote {
+  margin-top: 7px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-image: linear-gradient(to right, #eb3349, #f45c43);
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+}
