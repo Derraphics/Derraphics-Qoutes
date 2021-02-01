@@ -2,7 +2,7 @@
 
 #### An application submitted for week 1 at MC38, 29th Jan, 2021
 
-#### By **Tom Hunja**
+#### By **Derrick Muriithi W**
 
 ## Description
 
@@ -15,7 +15,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 1. run npm install -g @angular/cli@next npm update.
 1. clone this repo
    `git clone https://github.com/BwanaQ/nirvana.git`
-1. cd into the nirvana folder `cd nirvana`
 1. Run `ng serve` for a dev server.
 1. Navigate to `http://localhost:4200/`
 
@@ -28,7 +27,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Live Site
 
-A live site can be found [here](https://bwanaq.github.io/nirvana/).
+A live site can be found [here](https://github.com/Derraphics/Derraphics-Qoutes/tree/master).
 
 ## Known Bugs
 
@@ -48,4 +47,4 @@ No known bugs
 
 ### License
 
-[MIT](https://choosealicense.com/licenses/mit/) Copyright (c) 2021 **Tom Hunja**
+[MIT](https://choosealicense.com/licenses/mit/) Copyright (c) 2021
