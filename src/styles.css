@@ -1,4 +1,4 @@
-/* You can add global styles to this file, and also import other style files */
+
 @import "~bootstrap/dist/css/bootstrap.css";
 @import url("https://fonts.googleapis.com/css2?family=Sacramento&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Quattrocento+Sans&display=swap");
@@ -9,10 +9,7 @@
   padding-top: 80px;
   padding-bottom: 80px;
 }
-.nirvana-logo {
-  width: 50%;
-  height: auto;
-}
+
 .col-md-4 {
   padding: 0px;
 }
@@ -35,8 +32,9 @@
   left: 0;
   bottom: 0;
   width: 100%;
-  background-image: linear-gradient(to right, #eb3349, #f45c43);
+  background-image: linear-gradient(to right, #312f2f, #3a3635);
   color: white;
   text-align: center;
   padding-top: 20px;
+  font-size: 20px;
 }
