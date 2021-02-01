@@ -9,41 +9,57 @@ export class QuoteComponent implements OnInit {
   quotes: Quote[] = [
     new Quote(
       1,
-      'Act as if what you do makes a difference. It does.',
-      'William James',
-      'Tom Hunja',
+      'The Best Way To Get Started Is To Quit Talking And Begin Doing.',
+      'Walt Disney',
+      'Walt Disney',
       0,
       0
     ),
     new Quote(
       2,
-      'Success is not final, failure is not fatal: it is the courage to continue that counts.',
-      'Winston Churchill',
-      'Breens Mbaka',
+      'Don’t Let Yesterday Take Up Too Much Of Today.',
+      'Will Rogers',
+      'Will Rogers',
       0,
       0
     ),
     new Quote(
       3,
-      'Never bend your head. Always hold it high. Look the world straight in the eye.',
-      'Helen Keller',
-      'Rose Okoth',
+      'You Learn More From Failure Than From Success. Don’t Let It Stop You. Failure Builds Character.',
+      'Will Rogers',
+      'Will Rogersh',
       0,
       0
     ),
     new Quote(
       4,
-      'What you get by achieving your goals is not as important as what you become by achieving your goals.',
-      'Zig Ziglar',
-      'Dawn Ndemo',
+      'It’s Not Whether You Get Knocked Down, It’s Whether You Get Up.',
+      'Vince Lombardir',
+      'Vince Lombardi',
       0,
       0
     ),
     new Quote(
       5,
-      "Believe you can and you're halfway there.",
-      'Theodore Roosevelt',
-      'Victor Kigen',
+      "If You Are Working On Something That You Really Care About, You Don’t Have To Be Pushed. The Vision Pulls You.",
+      'Will Rogers',
+      'Will Rogers',
+      0,
+      0
+    ),
+    new Quote(
+      4,
+      'Failure Will Never Overtake Me If My Determination To Succeed Is Strong Enough.',
+      'Mohnish Pabrai',
+      'Mohnish Pabrai',
+      0,
+      0
+    ),
+    new Quote(
+      4,
+      'People Who Are Crazy Enough To Think They Can Change The World, Are The Ones Who Do.',
+      'Maya Angelou',
+      'Maya Angelou',
       0,
       0
     ),
