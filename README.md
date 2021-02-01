@@ -35,12 +35,11 @@ A live site can be found [here](https://github.com/Derraphics/Derraphics-Qoutes/
 No known bugs
 
 ## Technologies Used
-
-- Angular
-- HTML 5
-- CSS
 - TypeScript
 - Bootstrap
+- Angular
+- HTML 
+- CSS
 
 ## Support and contact details
 
